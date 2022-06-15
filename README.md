@@ -1,4 +1,4 @@
-<h1>Hi there I'm Vamsi!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+<h1>Hi there I'm Vamsi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
 
 <!--
 **Vamsi4612/Vamsi4612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
