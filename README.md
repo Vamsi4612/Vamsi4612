@@ -1,4 +1,4 @@
-<h1>Hi there I'm Vamsi! <img src = "https://user-images.githubusercontent.com/101566740/173753171-da1bf1f0-e898-487a-b06f-4ebc9382202a.gif" height="32">
+<h1>Hi there I'm Vamsi! <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
 
 
 <!--
