@@ -1,5 +1,8 @@
-<h1>Hi there I'm Vamsi! <img src = "https://github.com/Vamsi4612/Vamsi4612/blob/main/Hi.gif" width="35"> <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
-
+<h1 align="center">Hi there I'm Vamsi! <img src = "https://github.com/Vamsi4612/Vamsi4612/blob/main/Hi.gif" width="35"> <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+stack+developer;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 <!--
 **Vamsi4612/Vamsi4612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
