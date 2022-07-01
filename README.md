@@ -1,5 +1,5 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, I'm <span style="color: #447ED5">[Vamsi!](https://github.com/Vamsi4612)</span><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="33">
-![Hi there I,m Vamsi (2) (1)](https://github.com/Vamsi4612/Vamsi4612/blob/main/Hi%20there%20I%2Cm%20Vamsi.GIF)
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, I'm <span style="color: #447ED5">[Vamsi! ](https://github.com/Vamsi4612)</span><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="33">
+ ![Hi there I,m Vamsi (2) (1)](https://github.com/Vamsi4612/Vamsi4612/blob/main/Hi%20there%20I%2Cm%20Vamsi.GIF)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsikrishna4612) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vamsi949949) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vamsikrishna4612) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vamsichallapalli) <a title="vamsikrishna4612@gmail.com" href="mailto:vamsikrishna4612@gmail.com" target="blank"><img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vamsi4612" /></a> 
 
@@ -13,12 +13,8 @@ As a software engineer, I enjoy my obsession with attention to detail, <br />my 
 
 - Currently: I'm pursuing Java Backend Development course at Masai
 
-
-
-
  <hr>
- 
- 
+  
 <h3><i>My Skills <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
  <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
