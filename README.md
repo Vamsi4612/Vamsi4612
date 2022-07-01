@@ -37,7 +37,7 @@ As a software engineer, I enjoy my obsession with attention to detail, <br />my 
   
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vamsi4612&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=default" alt="Vamsi4612" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi4612&layout=compact&exclude_repo=&hide=Shell&border_radius=0&theme=default" alt="Vamsi4612" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi4612&layout=compact&exclude_repo=Funcorp-clone,ev-3,Pluralsight-clone,Html-Css_Asgs_U2,Portfolio&hide=Shell&border_radius=0&theme=default" alt="Vamsi4612" height="139" />
 </p>
  
  
