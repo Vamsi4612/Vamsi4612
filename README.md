@@ -33,7 +33,14 @@ As a software engineer, I enjoy my obsession with attention to detail, <br />my 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
 </p>
   
+  ### <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="28"/> My GitHub State
   
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vamsi4612&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=default" alt="Vamsi4612" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi4612&layout=compact&exclude_repo=&hide=Shell&border_radius=0&theme=default" alt="Vamsi4612" height="139" />
+</p>
+ 
+ 
 <!--
 **Vamsi4612/Vamsi4612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
