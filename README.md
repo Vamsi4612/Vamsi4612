@@ -19,14 +19,22 @@ As a Developer, I enjoy my obsession with attention to detail, <br />my unique l
  <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java 8" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+<img src="https://img.shields.io/badge/Spring_Boot-00d09c?style=for-the-badge&logo=spring-boot&logoColor=white"" alt="Spring-Boot" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
+ <br>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
 <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
  <br>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+
 </p>
   
  <hr>  
@@ -37,7 +45,7 @@ As a Developer, I enjoy my obsession with attention to detail, <br />my unique l
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vamsi4612&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=default" alt="Vamsi4612" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi4612&layout=compact&exclude_repo=Funcorp-clone,ev-3,Pluralsight-clone,Html-Css_Asgs_U2,Portfolio&hide=Shell&border_radius=0&theme=default" alt="Vamsi4612" height="139" />
 </p>
- 
+ <a href="https://github.com/Vamsi4612/github-readme-activity-graph"><img alt="Vamsi4612's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vamsi4612&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
 <!--
 **Vamsi4612/Vamsi4612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
