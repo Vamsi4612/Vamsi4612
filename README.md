@@ -45,8 +45,14 @@ As a Developer, I enjoy my obsession with attention to detail, <br />my unique l
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vamsi4612&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=default" alt="Vamsi4612" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi4612&layout=compact&exclude_repo=Funcorp-clone,ev-3,Pluralsight-clone,Html-Css_Asgs_U2,Portfolio&hide=Shell&border_radius=0&theme=default" alt="Vamsi4612" height="139" />
 </p>
+<br>
+  
+ <!--------------------------------------------------------------------------------> 
+  
+ ## :trophy: Recent GitHub Activity
+  <br/>
  <a href="https://github.com/Vamsi4612/github-readme-activity-graph"><img alt="Vamsi4612's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vamsi4612&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
- 
+   <br/>
 <!--
 **Vamsi4612/Vamsi4612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
